@@ -13,18 +13,18 @@
       "name":"Tim Clark"
     }
   ],
-  "Contacts":[
+  "Phones":[
     { "id":0,
-      "name":"Mary Grace Lammers"
+      "phones": ["513-490-7440", "513-232-5930"]
     },
     { "id":1,
-      "name":"Lell Lammers"
+      "phones": ["513-646-3124"]
     },
     { "id":2,
-      "name":"Jimmy Johns"
+      "phones": ["513-474-3800"]
     },
     { "id":3,
-      "name":"Tim Clark"
+      "phones": ["859-482-1111", "859-233-3333"]
     }
   ]  
 }
